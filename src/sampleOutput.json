@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "T20 World Cup: Afghanistan win toss & bat first v Pakistan - clips, radio & text",
+      "description": "Follow live text, TMS commentary and in-play clips as Pakistan play Afghanistan in the T20 World Cup at the Dubai International Cricket Stadium.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/58257074",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.21.1/images/bbc-sport-logo.png",
+      "publishedAt": "2021-10-29T13:52:32.257218Z",
+      "content": "Hello! This is fun - multitasking the finish between West Indies and Bangladesh with the build-up of this next game!\r\nI reckon we're in for some fun with this one, though. The entertaining Afghanista… [+29 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "Cricket brings 5G to all of its phone plans | Engadget",
+      "description": "Cricket is enabling 5G for all its phone plans, and it's doing away with the 8Mbps cap as a result..",
+      "url": "https://www.engadget.com/cricket-5g-no-speed-cap-all-plans-130022473.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/e4e5c400-3813-11ec-bfe7-50ec106670ff",
+      "publishedAt": "2021-10-29T13:07:21.4585398Z",
+      "content": "Cricket is no longer reserving 5G for its priciest service tier. As of today, 5G is enabled for all of the prepaid carrier's plans. As you might guess, the provider is also doing away with the modest… [+1216 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Australian Test cricket great Ashley Mallett dies aged 76",
+      "description": "Australian spin bowling great Ashley Mallett, who played 38 Tests and took 132 wickets at an average of 29.84, dies aged 76 after battling cancer.",
+      "url": "http://www.abc.net.au/news/2021-10-29/australian-test-great-ashley-mallett-dies/100582246",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/76373d099f09602411f7f5f04b378b4b?impolicy=wcms_crop_resize&cropH=2166&cropW=3850&xPos=0&yPos=559&width=862&height=485",
+      "publishedAt": "2021-10-29T12:19:44Z",
+      "content": "Australian spin bowling great Ashley Mallett has died at age 76 after battling cancer.\r\nMallett played 38 Tests from his debut against England in 1968 and took 132 wickets at an average of 29.84, als… [+329 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}

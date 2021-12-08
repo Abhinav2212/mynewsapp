@@ -33,7 +33,7 @@ export class News extends Component {
       this.props.country
     }&category=${
       this.props.category
-    }&apiKey=f792f97f3c30441d81f1761c108f0796&page=${
+    }&apiKey=#put your api keys here#&page=${
       this.state.page
     }&pageSize=${this.props.pageSize}`;
     let data = await fetch(url);
